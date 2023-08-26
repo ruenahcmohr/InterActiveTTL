@@ -26,7 +26,11 @@ Under file, you can go to document properties and under that go to scripts, whic
 
 Layer names: yea, wtf inkscape!? nowhere in the SVG do the layer names actually seem to exist, they do not go by the name of the layer *in* inkscape, but the layer number. This is why there is an offset-by one after pin 7, becasue I did not make a layer for pin 8, as its ground. Expect confusing fun there.
 
-![74xx138-IA](74xx138-IA.svg) 
+
+The image will not work from github, they have some kinda script blocker :]
+
+For a working demo (exact same file as here), you can use 
+  http://ruemohr.org/~ircjunk/programming/74xx138-IA.svg
 
   Please take and modify this into other chips, I don't have time. 
 
